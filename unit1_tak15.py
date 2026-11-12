@@ -1,0 +1,7 @@
+str_num=input("Enter a number: ")
+int_num=int(str_num)
+float_num=float(str_num)
+str_num=str(int_num)
+print(f"Integer: {int_num},type: {type(int_num)}")
+print(f"Float: {float_num},type: {type(float_num)}")
+print(f"String: {str_num},type: {type(str_num)}")
