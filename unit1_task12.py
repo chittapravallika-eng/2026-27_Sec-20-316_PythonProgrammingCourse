@@ -1,5 +1,5 @@
-a = [10, 20, 30]
-b = [10, 20, 30]
+a = int(input("enter numbers:"))
+b = int(input("enter numbers:"))
 c = a
 print("a is b:", a is b)
 print("a is c:", a is c)
