@@ -1,0 +1,6 @@
+t1 = tuple(input("Enter first tuple elements: ").split())
+t2 = tuple(input("Enter second tuple elements: ").split())
+print("Concatenation:", t1 + t2)
+print("Slicing:", t1[1:])
+a, b, c = (10, 20, 30)
+print("Unpacking:", a, b, c)
