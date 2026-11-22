@@ -1,4 +1,4 @@
-text = "  Hello Python Programming  "
+text="  Hello Python Programming  "
 print("Upper:", text.upper())
 print("Lower:", text.lower())
 print("Strip:", text.strip())
